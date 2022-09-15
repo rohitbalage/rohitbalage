@@ -1,8 +1,7 @@
-### RRB Here,
-Thank you checking out my GITHUB!
+
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <iframe src="https://giphy.com/embed/dU5bZwFmWnxDgpMNf3" width="480" height="433" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-chelsy-mychelromance-dU5bZwFmWnxDgpMNf3">via GIPHY</a></p>
 </div>
 
 
