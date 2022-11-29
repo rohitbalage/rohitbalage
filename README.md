@@ -26,14 +26,17 @@
 
 ### My website, Technical blogs, and Coding forums:
 
-![https://rohitbalage.medium.com/](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)  ![https://leetcode.com/rohit_balage/](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) ![https://stackoverflow.com/users/12898752/rohit-balage](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)  ![https://play.google.com/console/u/0/developers/7820001253688402806/accountdetails](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)  ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://rohitbalage.medium.com/)
+[![Leet code](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/rohit_balage/)
+[![play store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7820001253688402806)
+![freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+
+
   
 ---
 
 ### :man_technologist: About Me :
 I am an App  Developer <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMcv/giphy.gif" width="30"> currently living  in the Cleveland Ohio, USA.
-
-![https://ko-fi.com/rohitbalage](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
 - :telescope: I’m pursing my masters degree from Cleveland State University.
 
@@ -43,6 +46,7 @@ I am an App  Developer <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMc
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rohitbalage-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rohitbalage/)
 
+[![buy me a coffe](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/rohitbalage)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -78,6 +82,7 @@ I am an App  Developer <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMc
 
 ---
 ### Please support my work:
+
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![Phonepe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)
 ![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)
