@@ -36,7 +36,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am an App  Developer <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMcv/giphy.gif" width="30"> currently living  in the Cleveland Ohio, USA.
+I am a Software Developer <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMcv/giphy.gif" width="30"> currently living  in the Cleveland Ohio, USA.
 
 - :telescope: I’m pursing my masters degree from Cleveland State University.
 
