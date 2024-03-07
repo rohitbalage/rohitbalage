@@ -138,7 +138,9 @@ I am a Software Developer <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6
 ### :fire: My Stats :
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohitbalage&theme=dark&background=000000)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitbalage&theme=2077)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rohitbalage&theme=merko&background=000000)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbalage&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
