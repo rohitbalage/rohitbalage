@@ -29,7 +29,7 @@
 
 **`The Computerman | App Developer | Video Creator | Software Development`**
 
-I started my journey back in 2015 as a native Computer Science Student.  I completed my Bachelor's degree from [Government College of Engineering Amravati][GCOEA] in 2019. I have completed my MS in Computer Science from  I [Cleveland State University][CSU] in 2023.  I have published that content on my YouTube channel "[The Computerman][youtube]".
+I started my journey back in 2015 as a native Computer Science Student.  I completed my Bachelor's degree from [Government College of Engineering Amravati][GCOEA] in 2019. I have completed my MS in Computer Science from  I [Cleveland State University][CSU] in 2023.  I have a youtube channel 'The Computerman' please find my YouTube channel "[The Computerman][youtube]"  regarding Computer Science tutorials.
 
 #
 
