@@ -163,7 +163,7 @@ I am a Software Developer <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6
 </p>
 
 *"
-At first stance, the Ocean looked impossible, but I drove that boat every day believing that I would reach the shore someday,
+At first stance, the Ocean looked impossible, but I paddle that boat every day believing that I would reach the shore someday,
 this belief made my painful journey into a painless habit"* - _Rohit Balage_
 
 
