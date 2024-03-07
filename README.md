@@ -162,6 +162,12 @@ I am a Software Developer <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6
   © 2024 Rohit Balage. All Rights Reserved.
 </p>
 
+*"At first stance, the Ocean looked impossible, but I drove that boat every day believing that I would reach the shore someday,
+this belief magically turned my painful journey into a painless habit"* - _Rohit Balage_
+
+
+<a href="https://freeimage.host/"><img src="https://iili.io/JV1mgvR.gif" alt="JV1mgvR.gif" width =1400 border="0"></a>
+
 
   <!-- Variable declaration here-->
   
