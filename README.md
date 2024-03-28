@@ -97,7 +97,7 @@ Genius  is the platform for MBA/MS and other aptitude exams.
 ---
 
 ### :man_technologist: About Me :
-I am a Software Developer <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMcv/giphy.gif" width="30"> currently living  in Cleveland Ohio, USA.
+I am an Mobile App Developer <img src="https://media.giphy.com/media/7nXBJW6aiB1Zd6MMcv/giphy.gif" width="30"> currently working for [Reply][Reply]  in Detroit Michigan, USA.
 
 - :telescope: I graduated M.S. in Computer Science from Cleveland State University.
 
@@ -179,3 +179,4 @@ this belief made my painful journey into a painless habit"* - _Rohit Balage_
 [IELTS]: https://www.instagram.com/your.ieltsvocabulary/
 [GENIUS]: https://www.instagram.com/cognitive.genius/
 [RSTAR]: https://www.instagram.com/computerscienceprojects.rrb/
+[Reply]: https://www.reply.com/en
