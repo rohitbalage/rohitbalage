@@ -163,8 +163,8 @@ I am an Mobile App Developer <img src="https://media.giphy.com/media/7nXBJW6aiB1
 </p>
 
 *"
-At first stance, the Ocean looked impossible, but I paddle that boat every day believing that I would reach the shore someday,
-this belief made my painful journey into a painless habit"* - _Rohit Balage_
+For what it’s worth: it’s never too late or, in my case, too early. to be whoever you want to be. There’s no time limit, stop whenever you want. You can change or stay the same, there are no rules to this thing. We can make the best or the worst of it. I hope you make the best of it. And I hope you see things that startle you. I hope you feel things you never felt before. I hope you meet people with a different point of view. I hope you live a life you’re proud of. If you find that you’re not, I hope you have the courage to start all over again.
+"* - _Francis Scott Fitzgerald_
 
 
 <a href="https://freeimage.host/"><img src="https://iili.io/JV1mgvR.gif" alt="JV1mgvR.gif" width =1400 border="0"></a>
