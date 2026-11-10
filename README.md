@@ -136,7 +136,7 @@ I am an Mobile App Developer <img src="https://media.giphy.com/media/7nXBJW6aiB1
 ---
 
 ### :fire: My Stats :
-[![Leetcode Stats](https://leetcard.jacoblin.cool/thecomputerman?theme=dark)](https://leetcode.com/thecomputerman)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/rohitbalage?theme=dark)](https://leetcode.com/thecomputerman)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohitbalage&theme=2077)
 
